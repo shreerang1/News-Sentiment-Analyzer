@@ -1,0 +1,14 @@
+# File: .space/config.yaml
+# Configuration for Hugging Face Spaces deployment
+
+title: "News Sentiment Analysis App"
+emoji: "📰"
+colorFrom: "blue"
+colorTo: "indigo"
+sdk: "docker"
+app_port: 8501
+pinned: false
+
+# Docker configuration
+build:
+  dockerfile: Dockerfile

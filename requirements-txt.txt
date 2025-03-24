@@ -1,0 +1,25 @@
+# Web app frameworks
+streamlit==1.27.0
+fastapi==0.103.1
+uvicorn==0.23.2
+pydantic==2.4.2
+
+# Data handling and visualization
+pandas==2.1.0
+plotly==5.16.1
+numpy==1.25.2
+
+# Text processing and NLP
+beautifulsoup4==4.12.2
+requests==2.31.0
+newspaper3k==0.2.8
+nltk==3.8.1
+transformers==4.33.1
+torch==2.0.1
+scipy==1.11.2
+
+# Text-to-Speech processing
+pydub==0.25.1
+
+# For deployment to Hugging Face Spaces
+huggingface-hub==0.16.4
